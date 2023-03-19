@@ -1,10 +1,9 @@
-container = document.getElementById("container");
-container.style.fontSize = "100px";
-
 const isMobile = navigator.userAgentData.mobile;
 
-if (isMobile == True) {
-    alert("Mobile Device")
+if (isMobile == true) {
+    container = document.getElementById("container");
+    container.style.fontSize = "60px";
 } else {
-    alert("Not Mobile Device")
+    container = document.getElementById("container");
+    container.style.fontSize = "100px";
 }
