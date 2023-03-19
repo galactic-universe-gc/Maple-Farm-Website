@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    /*background-image: url("../images/background.png");
+    background-repeat: repeat;*/
+    background-color: #37946e;
+}
+
+#banner {
+    background-color: #222034;
+}
+
+#banner-title {
+    text-align: center;
+}
+
+#hook-section {
+    text-align: center;
+    background-color: #222034;
+}
+
+#footer {
+    margin-top: 10px;
+    background-color: #222034;
+    font-size: 20px;
+    text-align: center;
+}
