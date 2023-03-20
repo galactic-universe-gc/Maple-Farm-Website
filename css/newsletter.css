@@ -1,0 +1,17 @@
+#newsletter {
+    font-size: 16px;
+}
+
+#newsletter-container {
+    padding: 15px 15px 15px 15px;
+}
+
+#newsletter-outline {
+    padding: 6.5px 6.5px 6.5px 6.5px;
+    background-color: #d68a4d;
+}
+
+#newsletter-filler {
+    padding: 10px 10px 10px 10px;
+    background-color: #ffc781;
+}

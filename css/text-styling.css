@@ -4,7 +4,7 @@
 
 #page-title {
     color: #d9a066;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 #title {
@@ -15,7 +15,11 @@
 
 #subtitle {
     color: #eec39a;
-    font-size: 0.3em;
+    font-size: 0.25em;
+}
+
+#paragraph {
+    font-size: 0.2em;
 }
 
 #footer-text {

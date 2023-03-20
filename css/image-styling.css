@@ -1,4 +1,26 @@
 #image-full {
     width: 100%;
     height: auto;
+    padding-bottom: 0px;
+}
+
+#social-icon {
+    width: 50px;
+    padding: 0px 10px 0px 10px;
+    height: auto;
+}
+
+#play-button {
+    padding: 15px 0px 10px 0px;
+    width: 5.5cm;
+    height: auto;
+}
+
+#newsletter-button {
+    padding: 15px 0px 10px 0px;
+    width: 7.5cm;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }

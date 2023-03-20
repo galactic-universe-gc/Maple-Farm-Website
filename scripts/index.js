@@ -1,16 +1,7 @@
-const isMobile = navigator.userAgentData.mobile;
-
-if (isMobile == true) {
-<<<<<<< HEAD
+if (navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/SamsungBrowser/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/BlackBerry/i) || navigator.userAgent.match(/Windows Phone/i)) {
     container = document.getElementById("container");
-    container.style.fontSize = "60px";
+    container.style.fontSize = "75px";
 } else {
     container = document.getElementById("container");
     container.style.fontSize = "100px";
 }
-=======
-    alert("Mobile Device")
-} else {
-    alert("Not Mobile Device")
-}
->>>>>>> 382e707affcb96d66fdc98014ab1290f3794d138
